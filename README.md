@@ -2,6 +2,12 @@
 
 Simple terminal string styling in Haskell, in the style of JavaScript's [sindresorhus/chalk](https://github.com/sindresorhus/chalk) and [sindresorhus/ansi-styles](https://github.com/sindresorhus/ansi-styles).
 
+## Installation
+
+```
+cabal install chalk
+```
+
 ## Usage
 
 ![Styles](https://github.com/joom/chalk/blob/master/screenshot.png)
